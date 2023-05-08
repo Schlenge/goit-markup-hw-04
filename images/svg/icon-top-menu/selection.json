@@ -1,0 +1,105 @@
+{
+  "IcoMoonType": "selection",
+  "icons": [
+    {
+      "icon": {
+        "paths": [
+          "M1142.154 77.856h-1023.999c-65.154 0-118.155 52.982-118.155 118.114v708.679c0 65.134 53 118.114 118.155 118.114h1023.999c65.15 0 118.154-52.98 118.154-118.114v-708.679c0-65.132-53.004-118.114-118.154-118.114zM1142.154 156.598c5.348 0 10.437 1.11 15.092 3.048l-527.092 456.68-527.098-456.68c4.654-1.935 9.745-3.048 15.096-3.048h1024.002zM1142.154 944.018h-1023.999c-21.73 0-39.386-17.644-39.386-39.369v-661.811l525.577 455.344c7.424 6.42 16.616 9.612 25.808 9.612s18.384-3.19 25.808-9.612l525.577-455.344v661.811c0 21.725-17.652 39.369-39.385 39.369z"
+        ],
+        "attrs": [
+          {
+            "fill": "rgb(117, 117, 117)"
+          }
+        ],
+        "width": 1260,
+        "isMulticolor": false,
+        "isMulticolor2": false,
+        "grid": 0,
+        "tags": [
+          "envelope"
+        ]
+      },
+      "attrs": [
+        {
+          "fill": "rgb(117, 117, 117)"
+        }
+      ],
+      "properties": {
+        "order": 2,
+        "id": 1,
+        "name": "envelope",
+        "prevSize": 32
+      },
+      "setIdx": 0,
+      "setId": 3,
+      "iconIdx": 0
+    },
+    {
+      "icon": {
+        "paths": [
+          "M544 0h-448c-52.938 0-96 43.062-96 96v832c0 52.941 43.062 96 96 96h448c52.938 0 96-43.059 96-96v-832c0-52.938-43.062-96-96-96zM96 64h448c17.656 0 32 14.344 32 32v672h-512v-672c0-17.656 14.344-32 32-32zM544 960h-448c-17.656 0-32-14.342-32-32v-96h512v96c0 17.658-14.344 32-32 32z",
+          "M150.627 879.29c12.497 11.667 12.497 30.579 0 42.246-12.497 11.661-32.757 11.661-45.254 0-12.497-11.667-12.497-30.579 0-42.246s32.757-11.667 45.254 0z"
+        ],
+        "attrs": [
+          {
+            "fill": "rgb(117, 117, 117)"
+          },
+          {
+            "fill": "rgb(117, 117, 117)"
+          }
+        ],
+        "width": 640,
+        "isMulticolor": false,
+        "isMulticolor2": false,
+        "grid": 0,
+        "tags": [
+          "smartphone"
+        ]
+      },
+      "attrs": [
+        {
+          "fill": "rgb(117, 117, 117)"
+        },
+        {
+          "fill": "rgb(117, 117, 117)"
+        }
+      ],
+      "properties": {
+        "order": 3,
+        "id": 0,
+        "name": "smartphone",
+        "prevSize": 32
+      },
+      "setIdx": 0,
+      "setId": 3,
+      "iconIdx": 1
+    }
+  ],
+  "height": 1024,
+  "preferences": {
+    "showGlyphs": true,
+    "showCodes": true,
+    "showQuickUse": true,
+    "showQuickUse2": true,
+    "showSVGs": true,
+    "fontPref": {
+      "prefix": "icon-",
+      "metadata": {},
+      "metrics": {
+        "emSize": 1024,
+        "baseline": 6.25,
+        "whitespace": 50
+      }
+    },
+    "imagePref": {
+      "prefix": "icon-",
+      "png": true,
+      "useClassSelector": true,
+      "color": 0,
+      "bgColor": 16777215,
+      "name": "icomoon",
+      "classSelector": ".icon"
+    },
+    "historySize": 50
+  }
+}
